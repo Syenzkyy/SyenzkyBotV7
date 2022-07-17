@@ -1,6 +1,7 @@
 /* My Info
 * New Base Multi Device By Zero YT7
-* Please Follow Me On All Sosial Media
+* Recode By Syenzkyy
+* FOLLOW MEDSOS NYA OWNER BASE :
 * Instagram : https://instagram.com/Zero_YT7
 * Tiktok : https://tiktok.com/@_zeroyt7
 * Github : https://github.com/Zero-YT7
@@ -18,6 +19,7 @@
 * Dhika Ardiant
 * Mhankbarbar
 * Chaliph
+* Syenzky
 * Allah S.W.T
 * Ortu
 * All Creator Bot
