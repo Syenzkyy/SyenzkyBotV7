@@ -1,11 +1,6 @@
 /* My Info
 * New Base Multi Device By Zero YT7
-* Please Follow Me On All Sosial Media
-* Instagram : https://instagram.com/Zero_YT7
-* Tiktok : https://tiktok.com/@_zeroyt7
-* Github : https://github.com/Zero-YT7
-* Youtube : https://youtube.com/ZeroYT7
-* Contact Me on wa.me/6285157740529
+* Recode By Syenzky
 */
 
 /* My Web
@@ -18,6 +13,7 @@
 * Dhika Ardiant
 * Mhankbarbar
 * Chaliph
+* Syenzky
 * Allah S.W.T
 * Ortu
 * All Creator Bot
@@ -41,11 +37,11 @@ global.APIKeys = {
 
 //━━━━━━━━━━━━━━━[ SETTING ]━━━━━━━━━━━━━━━━━//
 
-global.owner = ['6285157740529']
-global.premium = ['6285157740529']
-global.botname = 'Z7 BOT'
-global.packname = 'Zero YT7'
-global.author = 'Zero YT7'
+global.owner = ['60179630068']
+global.premium = ['60109561479']
+global.botname = 'SYENZKY BOT MD V7'
+global.packname = 'Syenzky Bot V7'
+global.author = 'Syenzky OFC'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
